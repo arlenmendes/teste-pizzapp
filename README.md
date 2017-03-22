@@ -17,7 +17,7 @@ O prazo de desenvolvimento é de 1 dia, porém se passar um pouco do prazo não 
 - Filial (select - "São Paulo e Rio de Janeiro");
 
 ## Regra 1
-Os dados do formulário precisam ser armazenados em um banco de dados (da sua escolha - porém queremos ver o código SQL) e enviados por email (formato de tabela) para ti.vagas@pizzapp.esy.es (assunto o seu nome concatenado com a data do envio).
+Os dados do formulário precisam ser armazenados em um banco de dados (da sua escolha - porém queremos ver o código SQL) e enviados por email (formato de tabela) para vagas.pizzapp@gmail.com (assunto o seu nome concatenado com a data do envio).
 
 ## Regra 2
 Criar uma tela de login, e fazer a validação conforme a regra número 1. Fazer uma regra para caso o usuário tentar mais de 3 vezes o acesso sem sucesso, o acesso fica bloqueado por 15 min.
