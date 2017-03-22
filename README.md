@@ -1,7 +1,7 @@
 # VAGA DESENVOLVEDOR PHP
 
 ## Empresa
-Somos uma agência de desenvolvimento web, com foco em criação de sistemas de gestão empresarial.
+Somos uma startup de tecnologia, e estamos em busca de novos talentos.
 
 ## Descrição
 O teste deve ser feito no padrão MVC, usando o Git como controle de versão via fork nesse repositório.
